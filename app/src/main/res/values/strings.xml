@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogflowChatbotSample</string>
+    <string name="non_empty_query">Query should not be empty</string>
+</resources>
